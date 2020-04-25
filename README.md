@@ -8,7 +8,7 @@
 
 # 使用方法
 
-1. [下载](https://github.com/EXACG/pandownload-fake-localserver/blob/master/PanDownload_localserver.zip?raw=true)
+1. [下载](https://raw.githubusercontent.com/MinRiHuang/pandownload-fake-localserver/master/PanDownload_localserver.zip)
 2. 解压
 3. 运行'Pandownload服务离线工具.exe'
 4. 运行'Pandownload.exe'
