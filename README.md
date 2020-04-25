@@ -4,7 +4,7 @@
 
 公众号：AI悦创
 
-![个人微信公众号](README.assets/INpnQOAfVcxEkSK.png)
+![个人微信公众号](https://github.com/MinRiHuang/images/blob/master/INpnQOAfVcxEkSK.png)
 
 # 使用方法
 
@@ -17,4 +17,4 @@
 
 问题:登陆后,卡在登录界面
 
-答: ![login_error.png](login_error.png)
+答: ![login_error.png](https://github.com/MinRiHuang/images/blob/master/login_error.png)
