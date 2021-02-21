@@ -4,7 +4,7 @@
 
 公众号：AI悦创
 
-![个人微信公众号](https://github.com/MinRiHuang/images/blob/master/INpnQOAfVcxEkSK.png)
+![公众号：AI悦创](公众号：AI悦创)
 
 # 使用方法
 
