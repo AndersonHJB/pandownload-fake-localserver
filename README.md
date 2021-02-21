@@ -4,11 +4,11 @@
 
 公众号：AI悦创
 
-![公众号：AI悦创](公众号：AI悦创)
+![公众号：AI悦创](公众号：AI悦创.jpg)
 
 # 使用方法
 
-1. [下载](https://raw.githubusercontent.com/MinRiHuang/pandownload-fake-localserver/master/PanDownload_localserver.zip)
+1. [下载](https://raw.githubusercontent.com/AndersonHJB/pandownload-fake-localserver/master/PanDownload_localserver.zip)
 2. 解压
 3. 运行'Pandownload服务离线工具.exe'
 4. 运行'Pandownload.exe'
@@ -17,4 +17,4 @@
 
 问题:登陆后,卡在登录界面
 
-答: ![login_error.png](https://github.com/MinRiHuang/images/blob/master/login_error.png)
+
